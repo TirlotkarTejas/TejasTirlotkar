@@ -10,4 +10,4 @@
 🔹 [Selenium Test Automation](https://github.com/yourrepo)   
 
 📫 **Connect with me:**  
-[LinkedIn](www.linkedin.com/in/tejas-tirlotkar-0b3029191)
+[LinkedIn] -> www.linkedin.com/in/tejas-tirlotkar-0b3029191
